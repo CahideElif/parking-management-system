@@ -1,0 +1,7 @@
+C:\Users\halim\Desktop\Programlama Algoritmalar\Vize Proje #2\Vize Proje #2\bin\Debug\Vize Proje #2.exe.config
+C:\Users\halim\Desktop\Programlama Algoritmalar\Vize Proje #2\Vize Proje #2\bin\Debug\Vize Proje #2.exe
+C:\Users\halim\Desktop\Programlama Algoritmalar\Vize Proje #2\Vize Proje #2\bin\Debug\Vize Proje #2.pdb
+C:\Users\halim\Desktop\Programlama Algoritmalar\Vize Proje #2\Vize Proje #2\obj\Debug\Vize Proje #2.csproj.AssemblyReference.cache
+C:\Users\halim\Desktop\Programlama Algoritmalar\Vize Proje #2\Vize Proje #2\obj\Debug\Vize Proje #2.csproj.CoreCompileInputs.cache
+C:\Users\halim\Desktop\Programlama Algoritmalar\Vize Proje #2\Vize Proje #2\obj\Debug\Vize Proje #2.exe
+C:\Users\halim\Desktop\Programlama Algoritmalar\Vize Proje #2\Vize Proje #2\obj\Debug\Vize Proje #2.pdb
